@@ -1,2 +1,4 @@
 # .github
-팀의 README를 안내할 저장소입니다.
+
+## Developers
+출발드림팀의 프로젝트를 소개합니다.
