@@ -34,8 +34,8 @@
 
 ## 👥 Member
 
-|:--:|:--:|:--:|
 |이름|역할|Github|
+|:--:|:--:|:--:|
 |강지덕|-|[paduck-96](https://github.com/paduck-96)|
 |김지수|-|[soojik](https://github.com/soojik)|
 |문태준|-|[lango](https://github.com/Jooney-95)|
